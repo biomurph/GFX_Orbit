@@ -30,6 +30,9 @@ Ported to chipKIT by Joel Murphy. Spring, 2015
     >>>>>  f = 1/0.55*R*C
 
     Uses DSPI for SPI bus control
+    
+    This code was written for my SharpMem + EEPROM lashup.
+    Excuse YOU if it doesn't work for your purposes
 *********************************************************************/
 
 #include <DSPI.h>
