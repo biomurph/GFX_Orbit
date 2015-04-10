@@ -21,4 +21,4 @@ Constructor takes two parameters: LCD_SS, DISP
   DISP pin is the Display control pin for the LCD. Can be any pin other than 11,12,13
   
   see this repo for more details:
-  
+  https://github.com/biomurph/Adafruit_GFX---chipKIT_Port
